@@ -46,9 +46,64 @@ A total of 24 hours: six hours in each of the three shops and an additional six 
 Grade Calculation
 -----------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Production hours | 25% |
-| Final project | 25% |
-| Midterm paper/presentation | 10% |
-|  {{< br >}}{{< br >}} Class work (detailed below): {{< br >}}{{< br >}} > Quizzes - 20%  {{< br >}}> Pants - 5%  {{< br >}}> Widget/tools - 5%  {{< br >}}> Paint project - 5%  {{< br >}}> Participation - 5% {{< br >}}{{< br >}}  | 40%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Production hours
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final project
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm paper/presentation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Class work (detailed below):
+
+> Quizzes - 20%  
+> Pants - 5%  
+> Widget/tools - 5%  
+> Paint project - 5%  
+> Participation - 5%
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

@@ -86,9 +86,69 @@ Student Work
 
 All materials are presented with permission of the author.
 
-| PROJECTS | PROPOSALS | REPORTS |
-| --- | --- | --- |
-| Glider Chair | ([PDF]({{< baseurl >}}/resources/mit21m_606s09_sw01_midterm)) | &nbsp; |
-| Hat and Vest Combo | ([PDF]({{< baseurl >}}/resources/mit21m_606s09_sw02_midterm)) | &nbsp; |
-| Superhero Costume | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21m_606s09_sw03_midterm)) | ([PDF]({{< baseurl >}}/resources/mit21m_606s09_sw03_final)) |
-| 1930s Evening Dress | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21m_606s09_sw06_midterm)) | ([JPG 1]({{< baseurl >}}/resources/sw06_final1)) ([JPG 2]({{< baseurl >}}/resources/sw06_final2))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PROJECTS
+{{< thclose >}}
+{{< thopen >}}
+PROPOSALS
+{{< thclose >}}
+{{< thopen >}}
+REPORTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Glider Chair
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21m_606s09_sw01_midterm))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Hat and Vest Combo
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21m_606s09_sw02_midterm))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Superhero Costume
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21m_606s09_sw03_midterm))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21m_606s09_sw03_final))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1930s Evening Dress
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21m_606s09_sw06_midterm))
+{{< tdclose >}}
+{{< tdopen >}}
+([JPG 1]({{< baseurl >}}/resources/sw06_final1)) ([JPG 2]({{< baseurl >}}/resources/sw06_final2))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
