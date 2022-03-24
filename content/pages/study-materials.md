@@ -21,5 +21,5 @@ Lighting
 
 Sections 6.04-6.07 in Williams, Bill. "[Lighting Mechanics](http://billwilliams.ca/resources/sld/sld-600.htm)." Chapter 6 in _Stage Lighting Design 101_. Winnipeg, Canada: Bill Williams and Associates, 2007.
 
-Lighting Power (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21m_606s09_study01_power))  
-Light Diagrams (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21m_606s09_study02_diagrams))
+Lighting Power ([PDF]({{< baseurl >}}/resources/mit21m_606s09_study01_power))  
+Light Diagrams ([PDF]({{< baseurl >}}/resources/mit21m_606s09_study02_diagrams))

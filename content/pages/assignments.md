@@ -43,7 +43,7 @@ Wash your fabric in whatever temperature water that you plan to keep washing the
 
 Please have fun customizing your trousers. Play with length, trims, fabric mixing and pockets, if you choose. I have attached some sketches of the different pocket options we have available.
 
-Pocket Options (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21m_606s09_assn02_trousers))
+Pocket Options ([PDF]({{< baseurl >}}/resources/mit21m_606s09_assn02_trousers))
 
 Production Work/Lab Hours
 -------------------------
@@ -131,7 +131,7 @@ Hat and Vest Combo
 Superhero Costume
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21m_606s09_sw03_midterm))
+([PDF]({{< baseurl >}}/resources/mit21m_606s09_sw03_midterm))
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/mit21m_606s09_sw03_final))
@@ -143,7 +143,7 @@ Superhero Costume
 1930s Evening Dress
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21m_606s09_sw06_midterm))
+([PDF]({{< baseurl >}}/resources/mit21m_606s09_sw06_midterm))
 {{< tdclose >}}
 {{< tdopen >}}
 ([JPG 1]({{< baseurl >}}/resources/sw06_final1)) ([JPG 2]({{< baseurl >}}/resources/sw06_final2))

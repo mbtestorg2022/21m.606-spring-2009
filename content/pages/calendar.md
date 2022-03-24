@@ -92,7 +92,7 @@ Set Shop
 
 Materials ([PDF]({{< baseurl >}}/resources/mit21m_606s09_lec03))
 
-Theatrical lumber weights and dimensions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21m_606s09_res03))
+Theatrical lumber weights and dimensions ([PDF]({{< baseurl >}}/resources/mit21m_606s09_res03))
 
 Quiz: scenic
 
